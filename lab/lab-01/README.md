@@ -37,6 +37,9 @@ http://www.admin-magazine.com/HPC/Articles/Environment-Modules
 Learn Git in 15 minutes
 - http://try.github.io/levels/1/challenges/1
 
+Git Branching Game - this is a fun way to learn advanced git features
+- http://pcottle.github.io/learnGitBranching/
+
 Bitbucket
 - Create an account on [bitbucket.org](https://bitbucket.org).
 - Add [ssh access](https://gist.github.com/mlunacek/6353920).
